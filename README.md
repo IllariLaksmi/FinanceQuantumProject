@@ -19,6 +19,6 @@ The quantum algorithms are integrated into a workflow engine that allows financi
 
  [Deck Link](https://docs.google.com/presentation/d/1-Q0e5__u7v7kBhZwt8h5gSbFi3wJDJh6V0abMAwO4tY/edit?usp=sharing)
 
- ## 🖼️ Project Presentation Video
+ ## 🎥 Project Presentation Video
 
   [Video Link](https://www.google.com)
