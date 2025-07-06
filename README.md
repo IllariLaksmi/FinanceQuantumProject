@@ -8,7 +8,7 @@ Quantum Cats
 | Name               | WISER Enrollment ID |
 |--------------------|---------------------|
 | Illari Alvarez-Gil | WISER123456          |
-| Suchismita Sankar  | WISER234567          |
+| Suchismita Sarkar  | WISER234567          |
 | Kazim Mumtaz       | WISER345678          |
 
 ## 📝 Project Summary
@@ -21,3 +21,7 @@ The quantum algorithms are integrated into a workflow engine that allows financi
 Early results suggest a potential 48% reduction in optimization time and up to 33% better accuracy in asset clustering when compared to classical simulated annealing. Additionally, QuantumFlow enables real-time workflow recomposition—adjusting strategies dynamically based on incoming data, volatility indices, or shifting market signals.
 
 Beyond finance, this workflow-centric approach to quantum advantage can apply to project management, supply chains, and algorithmic policy modeling. We believe QuantumFlow represents a bridge between theoretical quantum innovation and practical enterprise-scale optimization.
+
+## 🖼️ Project Presentation Deck
+
+ [Deck Link](https://docs.google.com/presentation/d/1-Q0e5__u7v7kBhZwt8h5gSbFi3wJDJh6V0abMAwO4tY/edit?usp=sharing)
